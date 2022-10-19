@@ -29,4 +29,4 @@ $ npm i
 $ node .
 ```
 
-> Developers : [Aarav Mehta](https://github.com/AaravMehta59)
+> Developers : [Aarav Mehta](https://itzaarav.netlify.app/)
